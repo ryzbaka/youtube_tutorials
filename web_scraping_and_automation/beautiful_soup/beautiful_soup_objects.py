@@ -112,6 +112,9 @@ tag.string.replace_with("This is another string")
 print(tag)
 
 # NavigableString
+#tag=soup.find_all('b')[3]
+#print(tag)
+#print(tag.string)
 
 # BeautifulSoup
 
